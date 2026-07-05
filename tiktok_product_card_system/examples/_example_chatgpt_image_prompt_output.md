@@ -1,7 +1,7 @@
-# 01 Input Requirements
+# Example ChatGPT Image Prompt Output
 
 ## 文件用途
-定义用户产品信息、竞品资料、参考图和补充信息的输入框架。
+提供 ChatGPT 生图提示词输出示例框架。
 
 ## 第二阶段要填充的内容
 补充具体字段、规则、短示例和检查项。
