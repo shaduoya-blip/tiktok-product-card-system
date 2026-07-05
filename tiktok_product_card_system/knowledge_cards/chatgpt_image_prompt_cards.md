@@ -1,7 +1,7 @@
-# 01 Input Requirements
+# ChatGPT Image Prompt Cards
 
 ## 文件用途
-定义用户产品信息、竞品资料、参考图和补充信息的输入框架。
+沉淀 ChatGPT 生图提示词知识卡。
 
 ## 第二阶段要填充的内容
 补充具体字段、规则、短示例和检查项。
