@@ -1,5 +1,10 @@
 # TikTok Product Card System
 
+
+## ChatGPT GitHub 应用读取入口
+
+ChatGPT 通过 GitHub 应用读取本仓库时，应优先打开 `00_CHATGPT_READ_FIRST.md`。该文件是统一入口，说明正式知识源、必读顺序、按任务选择性读取规则、产品组索引和固定运行流程。
+
 ## 文件用途
 这是一个长期复用的 ChatGPT Project 文件系统，用于 TikTok Shop US 商品卡规划。
 
