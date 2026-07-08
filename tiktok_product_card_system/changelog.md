@@ -13,6 +13,16 @@
 - [ ] 第二阶段补充详细规则、示例和可执行检查项。
 
 
+## 2026-07-08 新增 ChatGPT Runtime Bundle v1.0.0-runtime
+- 新增 `CHATGPT_RUNTIME_BUNDLE.md`，作为 ChatGPT 日常执行完整商品卡任务时优先读取的运行时精简规则包。
+- 更新 `00_CHATGPT_READ_FIRST.md`，增加运行包优先读取顺序和专项任务读取规则。
+- 更新 `17_iteration_and_self_improvement.md`，增加 Codex 后续修改运行规则时同步维护运行包、入口文件和 changelog 的规则。
+- 更新 `README.md`，补充 ChatGPT 通过 GitHub 调用仓库时的读取入口和运行包说明。
+- 运行包版本：`v1.0.0-runtime`。
+- 运行包来源提交：`e945a541fc3aa547468d4265355a913c345cc1a5`。
+- 生成日期：2026-07-08。
+
+
 ## 2026-07-08 新增 ChatGPT GitHub 应用统一入口
 - 新增 `00_CHATGPT_READ_FIRST.md`，作为 ChatGPT 通过 GitHub 应用读取仓库时的统一入口、读取顺序、任务选择规则、产品组索引和执行协议。
 - 更新 `README.md` 和 `00_system_control.md`，明确优先指向统一入口文件。
