@@ -11,3 +11,8 @@
 
 ## TODO
 - [ ] 第二阶段补充详细规则、示例和可执行检查项。
+
+## 竞品驱动 Highlights 规则（2026-07-08）
+- Highlights 采用短标题 + 一句利益说明：One-Button Fun、Long-Range Spray、Kit Includes、Party-Ready Bubbles。
+- 前 2 条必须覆盖标题最大卖点和首图最大卖点；后续覆盖配件、操作、安全/场景、礼物价值。
+- 每条 highlight 对应一张主图或详情图，避免出现图片无法证明的卖点。
