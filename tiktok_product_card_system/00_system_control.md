@@ -1,5 +1,10 @@
 # 00 System Control
 
+
+## 统一入口文件
+
+ChatGPT 通过 GitHub 应用读取本仓库时，必须先读取 `00_CHATGPT_READ_FIRST.md`，再按该入口文件规定的顺序读取 `changelog.md`、本文件和具体任务模块。
+
 ## 文件用途
 定义系统处理 TikTok Shop US 商品卡规划任务的工作顺序和基础边界。
 
